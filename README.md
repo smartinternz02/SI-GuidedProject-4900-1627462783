@@ -12,21 +12,21 @@ python app.py
 And then copy the localhost link and paste it on any browser to view the webpage.
 
 
-Sample EDA graph
+# Sample EDA graph
 
 <img width="891" alt="Screenshot 2021-08-03 at 8 45 12 PM" src="https://user-images.githubusercontent.com/73014208/128040709-bbd002e8-e11e-494d-a209-ac044e488bd2.png">
 
 
-R_2 Score Comparision
+# R_2 Score Comparision
 
 <img width="471" alt="Screenshot 2021-08-03 at 8 46 44 PM" src="https://user-images.githubusercontent.com/73014208/128040962-1fc576a8-82be-4c97-b642-11453a6b08ea.png">
 
 
-Sample tree from the final Forest
+# Sample tree from the final Forest
 
 <img width="858" alt="Screenshot 2021-08-03 at 8 46 09 PM" src="https://user-images.githubusercontent.com/73014208/128040883-86b54380-ac82-4f3c-97f7-3a63719c7042.png">
 
-Scatter Plot of Predicted and Original mpg values
+# Scatter Plot of Predicted and Original mpg values
 
 <img width="855" alt="Screenshot 2021-08-03 at 8 47 27 PM" src="https://user-images.githubusercontent.com/73014208/128041064-d0030493-b5b5-40d6-b850-e18a3ac8d866.png">
 
