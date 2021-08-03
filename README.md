@@ -31,3 +31,7 @@ And then copy the localhost link and paste it on any browser to view the webpage
 <img width="855" alt="Screenshot 2021-08-03 at 8 47 27 PM" src="https://user-images.githubusercontent.com/73014208/128041064-d0030493-b5b5-40d6-b850-e18a3ac8d866.png">
 
 
+# IBM Cloud - Model Deployment
+
+<img width="1440" alt="Screenshot 2021-08-03 at 9 06 51 PM" src="https://user-images.githubusercontent.com/73014208/128044302-aa74799b-3d01-46f8-8d61-9714c3f2fb6c.png">
+
